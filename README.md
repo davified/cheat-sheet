@@ -1,7 +1,6 @@
 # cheat-sheet
 Below is a collection of useful resources collected by students of GA Singapore's Web Development Immersive 3 (Woohoo!)
 
----
 ## Workflow
 #### Command Line Interface (CLI)
 - Terminal (for macs) https://github.com/0nn0/terminal-mac-cheatsheet
@@ -21,7 +20,6 @@ Below is a collection of useful resources collected by students of GA Singapore'
 - Emmet cheatsheet: http://docs.emmet.io/cheat-sheet/
 - Linter (JS Standard): https://github.com/feross/standard#text-editor-plugins
 
----
 ## HTML & CSS
 #### HTML
 - HTML5 element flowchart: http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
@@ -36,7 +34,6 @@ Below is a collection of useful resources collected by students of GA Singapore'
 - Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Flexbox Defense (game): http://www.flexboxdefense.com/
 
----
 ## Javascript
 #### Key concepts, explained
 - What is a closure?: https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.rfvzt9mh8
@@ -44,22 +41,18 @@ Below is a collection of useful resources collected by students of GA Singapore'
 - Understand callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
  and Callbacks With Ease
 
----
 
 ## Ruby:
 - Ruby koans: https://github.com/MakeSchool-17/ruby-koans-cmaher92/tree/master/download
 - Ruby koans (more detailed instructions): https://github.com/sf-wdi-26/modules/tree/master/w04/d01/m2
 - Ruby guide with comics: http://poignant.guide/book/
 
----
 ## Rails:
 - Guide for installing rails: http://installrails.com/
 
----
 ## Awesome textbooks (Must read!)
 - Eloquent Javascript: http://eloquentjavascript.net/ (sandbox: http://eloquentjavascript.net/code/)
 
----
 ## General
 #### Useful Chrome extensions
 - Color picker: http://www.colorzilla.com/
@@ -78,4 +71,3 @@ Below is a collection of useful resources collected by students of GA Singapore'
 #### Miscellaneous:
 - How to format messages on slack: https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages
 - Slack for desktop: https://slack.com/downloads
----
