@@ -39,6 +39,7 @@ Below is a collection of useful resources collected by students of GA Singapore'
 #### HTML
 - HTML5 element flowchart: http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
 - Livereload-js: https://github.com/livereload/livereload-js
+- Form validation plugin: http://1000hz.github.io/bootstrap-validator/
 
 #### CSS
 - CSS: https://www.toptal.com/css/css-cheat-sheet
