@@ -127,6 +127,7 @@ Below is a collection of useful resources collected by students of GA Singapore'
 - Creating Static Pages in Ruby on Rails: <http://blog.teamtreehouse.com/static-pages-ruby-rails>
 
 - Rails ERD (Entity-Relationship Diagrams): <http://voormedia.github.io/rails-erd/install.html>
+
 - Rails generate model vs. resource vs. scaffold: <http://www.korenlc.com/rails-generate-model-vs-resourse-vs-scaffold/>
 
 ### Useful Rubygems:
